@@ -1,3 +1,3 @@
 KRYPT, Send Ethereum using MetaMask
 
-krypt-lemon.vercel.app
+[KRYPT Website](krypt-lemon.vercel.app)
